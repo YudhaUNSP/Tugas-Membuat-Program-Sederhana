@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HitungVolumeKubus",
+            "request": "launch",
+            "mainClass": "HitungVolumeKubus",
+            "projectName": "Yuda_222c25fa"
+        },
+        {
+            "type": "java",
+            "name": "HitungLuasPersegiPanjang",
+            "request": "launch",
+            "mainClass": "HitungLuasPersegiPanjang",
+            "projectName": "Yuda_222c25fa"
+        },
+        {
+            "type": "java",
+            "name": "HitungKelilingLingkaran",
+            "request": "launch",
+            "mainClass": "HitungKelilingLingkaran",
+            "projectName": "Yuda_222c25fa"
+        },
+        {
+            "type": "java",
+            "name": "KornversiSuhu",
+            "request": "launch",
+            "mainClass": "KornversiSuhu",
+            "projectName": "Yuda_222c25fa"
+        },
+        {
+            "type": "java",
+            "name": "HitungKembalian",
+            "request": "launch",
+            "mainClass": "HitungKembalian",
+            "projectName": "Yuda_222c25fa"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HitungUangKembalian",
+            "request": "launch",
+            "mainClass": "HitungUangKembalian",
+            "projectName": "Yuda_222c25fa"
+        }
+    ]
+}
